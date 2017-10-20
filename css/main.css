@@ -1,5 +1,5 @@
 .container {
-  background: green;
+  background: white;
 }
 
 #logo {
@@ -17,7 +17,7 @@
 
 
 body {
-  background-color: green;
+  background-image: "img\slider-revolution-3-bg.jp";
 }
 
 h1 {
@@ -36,7 +36,7 @@ p {
 }
 
 .navbar {
-  background-color: white !important;
+  background-color: green !important;
   text-align: center !important;
 }
 
@@ -55,7 +55,6 @@ p {
   background-color: green
 }
 
-.panel {
-  display: block;
-  margin: 0 center;
+.form-group {
+  text-align: middle;
 }
