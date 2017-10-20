@@ -1,21 +1,27 @@
+.container {
+  background: green;
+}
+
 #logo {
   font-size: 30px;
 }
 
 #logo-img, #logo {
   vertical-align: middle;
+  background-color: green;
 }
 
 .form {
   display: inline-block;
 }
 
+
 body {
-  background-color: 0000;
+  background-color: green;
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -30,9 +36,26 @@ p {
 }
 
 .navbar {
-  background-color: green !important;
+  background-color: white !important;
+  text-align: center !important;
+}
+
+.navbar {
+  border:1px solid #000 ;
+  border-bottom: 1px solid #000;
+
+
+}
+
+#a {
+  border: 1px solid: #555;
 }
 
 #logo-img {
   background-color: green
+}
+
+.panel {
+  display: block;
+  margin: 0 center;
 }
